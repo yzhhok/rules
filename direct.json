@@ -2,10 +2,10 @@
   "version": 1,
   "rules": [
     {
-"domain_suffix": [
-      "domain:sunup.eu.org",
-      "domain:teracloud.jp",
-      "domain:clawcloudrun.com"
+      "domain_suffix": [
+        "sunup.eu.org",
+        "teracloud.jp",
+        "clawcloudrun.com"
       ]
     }
   ]
